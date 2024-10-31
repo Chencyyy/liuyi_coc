@@ -1,6 +1,6 @@
 # liuyi_coc
 
-### 链接汇总 *长/短 内容无区别
+### 链接汇总
 **`反馈/提问箱`**
 https://box.n3ko.cc/_/no_reply31cat
 
